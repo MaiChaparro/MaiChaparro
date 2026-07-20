@@ -48,7 +48,16 @@ Trago na bagagem experiência corporativa com Automação de Processos (RPA), at
 <br/>
 <br/>
 
+
+### 🔭 O que estou construindo no momento
+
+* 🌱 Desenvolvendo um site em equipe como projeto prático para o curso de Front-End.
 ---
+
+### 🌍 Idiomas
+
+* **Espanhol:** Nativo/Fluente 
+* **Inglês:** Intermediário
 
 ## 📬 Como me encontrar
 
