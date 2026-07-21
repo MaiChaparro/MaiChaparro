@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maida Chaparro
+# :fox_face:  Maida Chaparro
 
 **`Desenvolvedora Front-End`**
 
